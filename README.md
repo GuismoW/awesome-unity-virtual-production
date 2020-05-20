@@ -34,7 +34,7 @@ ProcAmp Shader ChromaKey - https://github.com/keijiro/ProcAmp
 
 Anamorphic Lens Flare Effect - https://github.com/keijiro/KinoStreak
 
-OpenVDB - https://github.com/karasusan/OpenVDBForUnity
+OpenVDB - https://github.com/karasusan/OpenVDBForUnity    ( https://www.openvdb.org/ )
 
 ## Unity 3D Control Plugins ##
 
