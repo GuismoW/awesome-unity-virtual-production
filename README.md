@@ -72,9 +72,11 @@ Medialooks Transport for NDI over internet - https://www.medialooks.com/video-tr
 
 ## External Tracking Systems (Camera Tracker) ##
 
-Driver4VR - http://www.driver4vr.com
-PSMoveService (to use psmove as camera tracker ) - 
-Steam VR 
+Driver4VR - http://www.driver4vr.com  (use any other tracker devices to help the stage )
+
+PSMoveService (to use psmove as camera tracker ) - You PSMove and PSEYE's as a Tracker
+
+Steam VR - Requeriment tool
 
 ## Hardware Recommendation Workstation
 
