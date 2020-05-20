@@ -14,15 +14,17 @@ HAP Video Codec Player for Unity 3D - https://assetstore.unity.com/packages/tool
 
 Comercial Plugins:
 
-AVPRO Live Camera (DeckLink support) - 
+AVPRO Live Camera (DeckLink support) - https://assetstore.unity.com/packages/tools/video/avpro-live-camera-3683
 
-AVPRO Live Media - 
+AVPRO Video (4K Support) - https://assetstore.unity.com/packages/tools/video/avpro-video-windows-57969
+
+AVPRO DeckLink - https://assetstore.unity.com/packages/tools/video/avpro-decklink-68784
 
 ## Unity 3D Shaders for Video Compositing ##
 
-Chromakey Shader - 
+Chromakey Shader with Shadow Support - https://github.com/hecomi/uChromaKey
 
-Unlit Shadows - 
+ProcAmp Shader ChromaKey - https://github.com/keijiro/ProcAmp
 
 Anamorphic Lens Flare Effect - https://github.com/keijiro/KinoStreak
 
