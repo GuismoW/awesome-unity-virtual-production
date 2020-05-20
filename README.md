@@ -2,7 +2,7 @@
 
 Awesome Tools for Unity Virtual Production
 
-Prepare your Workstations with this amazing collection of tools for Unity 3D Virtual Production.
+Prepare your Studio Workstation with this amazing collection of tools for Unity 3D Virtual Production.
 
 ## Unty 3D Video Plugins ##
 
