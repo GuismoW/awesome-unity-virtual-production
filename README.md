@@ -83,10 +83,11 @@ Steam VR - Requeriment tool ( Download the app and Unity 3D Plugin)
 
 We are wainting (Professional Depth Tracker Cameras support ):
 
-- nCam plugin for Unity 3D
+- nCam plugin for Unity 3D -> https://www.ncam-tech.com/
 
-- sTYpe Camera plugin for Unity 3D
+- sTYpe Camera plugin for Unity 3D -> https://stype.tv/
 
+- Mo-Sys Camera plugin for Unity 3D -> https://www.mo-sys.com/
 
 ## Hardware Recommendation Workstation
 
