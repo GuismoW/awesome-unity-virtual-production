@@ -2,11 +2,7 @@
 
 Awesome Tools for Unity Virtual Production
 
-## Unity Plugins ##
-
-###Free Plugins:###
-
-## Video Plugins ##
+## Unty 3D Video Plugins ##
 
 NDI Input and Output for Unity 3D (unity plugin )
 
@@ -20,13 +16,13 @@ AVPRO Live Camera
 
 AVPRO Live Media
 
-## Shaders ##
+## Unity 3D Shaders for Video Compositing ##
 
 Chromakey Shader
 
 Unlit Shadows
 
-## Control Plugins ##
+## Unity 3D Control Plugins ##
 
 OSC Plugin for Unity
 
@@ -34,7 +30,7 @@ Open Stage Control , OSC Controller System for Web
 
 OSC Bridge for Node.JS
 
-### Video Tools ###
+### External Video Tools ###
 
 SpaceDesk Extend Monitor to a Smartphone ( Android and IoS ), create a Field Monitor
 
@@ -46,19 +42,19 @@ OBS - NDI Plugin
 
 OBS - Virtual Camera Plugin
 
-## Required Tools ##
+## External Required Tools ##
 
 NewTek NDI Tools for Windows
 
 For remote Productions:
 
-## Tracking Systems ##
+## External Tracking Systems (Camera Tracker) ##
 
 Driver4VR
 PSMoveService
 Steam VR
 
-## Hardware Recommendation
+## Hardware Recommendation Workstation
 
 HP Z4
 Nvidia RTX 2008Ti
