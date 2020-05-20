@@ -77,8 +77,15 @@ Medialooks Transport for NDI over internet - https://www.medialooks.com/video-tr
 Driver4VR - http://www.driver4vr.com  (use any other tracker devices to help the stage )
 
 PSMoveService (to use psmove as camera tracker ) - You PSMove and PSEYE's as a Tracker
+https://github.com/psmoveservice/PSMoveService
 
-Steam VR - Requeriment tool
+Steam VR - Requeriment tool ( Download the app and Unity 3D Plugin)
+
+We are wainting:
+
+nCam plugin for Unity 3D
+sTYpe Camera plugin for Unity 3D
+
 
 ## Hardware Recommendation Workstation
 
@@ -87,3 +94,14 @@ Nvidia RTX 2008Ti
 CPU i9
 Memory 32 Gb
 
+## Eviroment ##
+
+Contract
+
+A 3D software generalist Specialist
+A 3D Enviroment Artist Specialist
+A 3D Lighting Artist Specialist
+A Unity 3D HDRP Pipeling specialist
+A Game Developer Specialized in VR Games
+
+Good Luck
