@@ -81,10 +81,11 @@ https://github.com/psmoveservice/PSMoveService
 
 Steam VR - Requeriment tool ( Download the app and Unity 3D Plugin)
 
-We are wainting:
+We are wainting (Professional Depth Tracker Cameras support ):
 
-nCam plugin for Unity 3D
-sTYpe Camera plugin for Unity 3D
+- nCam plugin for Unity 3D
+
+- sTYpe Camera plugin for Unity 3D
 
 
 ## Hardware Recommendation Workstation
