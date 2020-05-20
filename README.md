@@ -10,6 +10,8 @@ NDI Input and Output for Unity 3D (unity plugin ) - https://github.com/keijiro/K
 
 Black Magic Decklink for Unity 3D - https://github.com/keijiro/Klinker
 
+GenLock Frame Rates - https://github.com/Unity-Technologies/GenLockProofOfConcept
+
 HAP Video Codec Player for Unity 3D - https://assetstore.unity.com/packages/tools/video/demolition-media-hap-78908
 
 Comercial Plugins:
