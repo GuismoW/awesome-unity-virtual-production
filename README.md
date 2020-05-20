@@ -30,7 +30,11 @@ Anamorphic Lens Flare Effect - https://github.com/keijiro/KinoStreak
 
 ## Unity 3D Control Plugins ##
 
-OSC Plugin for Unity - 
+OSC Plugin for Unity:
+https://github.com/keijiro/OscJack
+https://github.com/jorgegarcia/UnityOSC
+https://github.com/thomasfredericks/UnityOSC
+https://assetstore.unity.com/packages/tools/input-management/extosc-open-sound-control-72005
 
 KlakUI - https://github.com/keijiro/KlakUI
 
@@ -63,6 +67,8 @@ Open Stage Control , OSC Controller System for Web - https://openstagecontrol.am
 OSC Web Bridge for Node.JS - https://github.com/automata/osc-web
 
 ## For remote Productions ##
+
+Medialooks Transport for NDI over internet - https://www.medialooks.com/video-transport
 
 ## External Tracking Systems (Camera Tracker) ##
 
