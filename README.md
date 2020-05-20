@@ -66,15 +66,16 @@ HAP Codec - https://hap.video/developers.html
 
 FFmpeg - https://www.ffmpeg.org/download.html
 
-## External Control Tools ##
+## For remote Productions ##
+
+Medialooks Transport for NDI over internet - https://www.medialooks.com/video-transport
+
+Use OSC over the web:
 
 Open Stage Control , OSC Controller System for Web - https://openstagecontrol.ammd.net/
 
 OSC Web Bridge for Node.JS - https://github.com/automata/osc-web
 
-## For remote Productions ##
-
-Medialooks Transport for NDI over internet - https://www.medialooks.com/video-transport
 
 ## External Tracking Systems (Camera Tracker) ##
 
