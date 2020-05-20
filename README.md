@@ -22,6 +22,8 @@ Chromakey Shader
 
 Unlit Shadows
 
+Anamorphic Lens Flare Effect - https://github.com/keijiro/KinoStreak
+
 ## Unity 3D Control Plugins ##
 
 OSC Plugin for Unity
