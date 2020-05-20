@@ -98,10 +98,14 @@ Memory 32 Gb
 
 Contract
 
--A 3D software generalist Specialist
--A 3D Enviroment Artist Specialist
--A 3D Lighting Artist Specialist
--A Unity 3D HDRP Pipeling specialist
--A Game Developer Specialized in VR Games
+- A 3D software generalist Specialist
+
+- A 3D Enviroment Artist Specialist
+
+- A 3D Lighting Artist Specialist
+
+- A Unity 3D HDRP Pipeling specialist
+
+- A Game Developer Specialized in VR Games
 
 Good Luck
