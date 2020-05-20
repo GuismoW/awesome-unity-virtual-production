@@ -97,8 +97,11 @@ We are wainting (Professional Depth Tracker Cameras support ):
 ## Hardware Recommendation Workstation
 
 HP Z4
+
 Nvidia RTX 2008Ti
+
 CPU i9
+
 Memory 32 Gb
 
 ## Eviroment ##
