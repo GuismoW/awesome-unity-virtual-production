@@ -33,9 +33,13 @@ Anamorphic Lens Flare Effect - https://github.com/keijiro/KinoStreak
 ## Unity 3D Control Plugins ##
 
 OSC Plugin for Unity:
+
 https://github.com/keijiro/OscJack
+
 https://github.com/jorgegarcia/UnityOSC
+
 https://github.com/thomasfredericks/UnityOSC
+
 https://assetstore.unity.com/packages/tools/input-management/extosc-open-sound-control-72005
 
 KlakUI - https://github.com/keijiro/KlakUI
