@@ -6,6 +6,8 @@ Prepare your Project and Studio Workstation with this amazing collection of tool
 
 ## Unty 3D Video Plugins ##
 
+Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture
+
 NDI Input and Output for Unity 3D (unity plugin ) - https://github.com/keijiro/KlakNDI
 
 Black Magic Decklink for Unity 3D - https://github.com/keijiro/Klinker
