@@ -105,6 +105,8 @@ https://www.bhphotovideo.com/c/product/1538940-REG/ncam_nc_plu_vz_ue_unity_plugi
 
 - Mo-Sys Camera plugin for Unity 3D -> https://www.mo-sys.com/
 
+- Solid-Track (Unity Plugin available ) -> http://www.solid-track.com/
+
 ## Hardware Recommendation Workstation
 
 HP Z4
