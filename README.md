@@ -117,7 +117,7 @@ Memory 32 Gb
 
 ## Eviroment ##
 
-Use latest Unity version with HDRP + DXR Support
+Use latest Unity version with HDRP + DXR Support for Realtime Ray Tracing
 
 Contract
 
