@@ -117,6 +117,8 @@ Memory 32 Gb
 
 ## Eviroment ##
 
+Use latest Unity version with HDRP + DXR Support
+
 Contract
 
 - A Technical Director
