@@ -32,7 +32,7 @@ AVPRO DeckLink - https://assetstore.unity.com/packages/tools/video/avpro-decklin
 
 ## Unity 3D Shaders for Video Compositing ##
 
-ClydeSouza HDRP Chromakey Shader - https://github.com/dirrogate/HDRP-Unity-Chromakey
+ClydedeSouza HDRP Chromakey Shader - https://github.com/dirrogate/HDRP-Unity-Chromakey
 
 Chromakey Shader with Shadow Support - https://github.com/hecomi/uChromaKey
 
