@@ -135,6 +135,6 @@ Contract
 
 - A Unity 3D HDRP Pipeline specialist
 
-- A Game Developer Specialized in VR Games
+- A Game Developer Specialized in VR Games to setup your VIVE Trackers.
 
 Good Luck
